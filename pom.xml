@@ -495,4 +495,12 @@
             </reporting>
         </profile>
     </profiles>
+    <distributionManagement>
+        <snapshotRepository>
+            <id>b772c90741c7</id>
+            <name>b772c90741c7-snapshots</name>
+            <url>http://192.168.59.103:8181/artifactory/libs-snapshot-local</url>
+        </snapshotRepository>
+    </distributionManagement>
+
 </project>
